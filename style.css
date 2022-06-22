@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.sec-one{
+    display: flex; 
+    padding-bottom: 50px;  
+}
+.top-banner{
+    background-image: url(pictures/top-banner.png);
+    background-repeat: no-repeat;
+}
+.span-one{
+    color: red;
+}
+.fsdiv{
+    width: 40%;
+    padding: 2%;
+    margin: 4%;
+}
+.dis-h1{
+font-size: 45px;
+}
+.dis-h2{
+    font-size: 40px;
+}
+.per{
+    text-align: justify;
+}
+.first-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(180deg, tomato, purple);
+    border-radius: 10px;
+    color: beige;
+    font-weight: 700;
+}
+.second-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(180deg, orange, red);
+    border-radius: 10px;
+    color: beige;
+    font-weight: 700;
+}
+.sndiv{
+    width: 40%;
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: 4%;
+}
+.mid-pic{
+    background-image: url(pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.mid-right-pic{
+    background-image: url(pictures/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.box-shadow{
+    box-shadow: 10px 10px 60px  gray;
+}
+.inline-div{
+    display: flex; 
+    padding-bottom: 5px;
+    
+}
+.sndiv-2{
+    width: 40%;
+    padding-top: 0;
+    padding-left: 5%;
+    padding-right: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 10px;
+}
+#me{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, orange);
+    border-image-slice: 1;
+}
+#box-two{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, blue);
+    border-image-slice: 1;
+}
+.sec-two{
+    padding-bottom: 50px;
+}
+.sec-foot{
+    display: flex;   
+    background-image: linear-gradient(180deg, tomato purple);
+}
+.foot-div-1{
+    width: 50%;
+    padding: 2%;
+    margin-left: 2%;
+    margin-right: 0;
+}
+.foot-div-2{
+    width: 25%;
+    padding: 2%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+.foot-div-3{
+    width: 30%;
+    padding: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.foot{
+    text-align: center;
+}
+.final{
+    background-image: linear-gradient(180deg, tomato, purple);
+}
+.foot-h3{
+    font-size: 18px;
+}
